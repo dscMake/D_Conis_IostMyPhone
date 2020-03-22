@@ -26,10 +26,7 @@ Here Lies the Preproduction Recipe:
     PassHardResetToModel
     InferLosedOrFoundStatus
     PassAndSoundAlarmToView
-    *Send GPS coordinates or Maps Info To Recovery Account
-    Pass
-    
-    
+    *Send GPS coordinates or Maps Info To Recovery Account  
     InitiateAlarm
     CeaseAlarm
     DoNothing
